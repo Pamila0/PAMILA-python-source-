@@ -40,3 +40,5 @@ if choice =="1":
 
     if choice =="2":
         print(f"{amount} USD ={amout= 35.5} THB")
+
+        if bmi >
